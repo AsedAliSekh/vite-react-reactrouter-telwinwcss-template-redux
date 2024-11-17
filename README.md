@@ -21,7 +21,7 @@ npx degit AsedAliSekh/vite-react-reactrouter-telwinwcss-template-redux my-app --
 ## Run
 ```sh
 cd my-app
-# Update if any package is outdated
+# Update if any package is outdated by -
 npx npm-check-updates -u
 npm install
 
