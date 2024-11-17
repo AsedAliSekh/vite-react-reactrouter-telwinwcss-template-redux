@@ -9,14 +9,14 @@ To use a template within your project, use [degit](https://github.com/Rich-Harri
 
 ### Template Initializetion
 
-Use `AsedAliSekh/vite-react-reactrouter-telwinwcss-template-redux` to create a project with JavaScript.
+Use `AsedAliSekh/vite-redux-telwind-template` to create a project with JavaScript.
 
 ```sh
-npx degit AsedAliSekh/vite-react-reactrouter-telwinwcss-template-redux my-app
+npx degit AsedAliSekh/vite-redux-telwind-template my-app
 
 # or
 
-npx degit AsedAliSekh/vite-react-reactrouter-telwinwcss-template-redux my-app --yarn
+npx degit AsedAliSekh/vite-redux-telwind-template my-app --yarn
 ```
 ## Run
 ```sh
